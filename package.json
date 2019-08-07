@@ -1,9 +1,10 @@
 {
   "name": "hello",
   "version": "0.1.0",
-  "homepage":"https://hridoy-software-developer.github.io/newserver/",
+  "homepage": "https://hridoy-software-developer.github.io/newserver/",
   "private": true,
   "dependencies": {
+    "opn": "^6.0.0",
     "php-server-manager": "^1.3.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
