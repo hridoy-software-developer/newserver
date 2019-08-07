@@ -9,7 +9,7 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
-    "start": "index.js",
+    "start": "piublic/index.html",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
   },
